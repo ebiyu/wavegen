@@ -19,11 +19,11 @@ button {
 #freqDisp, #typeDisp {
     background-color: black;
     color: lightgreen;
+    padding: 0 20px;
 }
 #freqDisp {
     font-size: 10em;
     text-align: right;
-    padding: 0 20px;
 }
 #canvas_container {
     width: 100%;
